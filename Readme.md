@@ -1,4 +1,4 @@
-# Aplicativos 
+# Aplicativos com interface gráfica
 
 -----Calculadora-----
 
